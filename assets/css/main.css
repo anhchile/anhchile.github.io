@@ -2417,6 +2417,9 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		/*max-height: 80vh;*/
+		/*object-fit: contain;*/
+		/*object-position: center;*/
 	}
 
 		.image img {
