@@ -81,6 +81,20 @@ Photoshoot is the most important phase that can show up final result for everyon
 
 <span class="image fit"><img src="{{ "/images/term 4/c.jpg" | absolute_url }}" alt="" /></span>
 
-And finally, this is my final product. To see all photoshoot, please click here. 
+<span class="image fit"><img src="{{ "/images/term 4/d.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/e.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/f.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/g.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/h.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/i.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image fit"><img src="{{ "/images/term 4/j.jpg" | absolute_url }}" alt="" /></span>
+
+To see my full portfolio, please click <a href="/projects"> here </a>
 
 
