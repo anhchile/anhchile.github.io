@@ -18,7 +18,7 @@ Please click on the <u>name of each project</u> below.
 <span class="image fit"><img src="{{ "/images/term 4/g.jpg" | absolute_url }}" alt="" /></span>			
 
 <a href="/stay-town-fw2017"> STAY TOWN </a>
-<span class="image fit"><img src="{{ "/images/stay town/10.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/stay-town/10.jpg" | absolute_url }}" alt="" /></span>
 
 <h2>Streetwear Project</h2>
 

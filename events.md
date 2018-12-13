@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-## Green Fashion Event - Artisans brand pop-up store - 2017
+## Sustainable fashion - Green Fashion Event - Artisans - 2017
 
 <span class="image fit"><img src="{{ "/images/events/1.jpg" | absolute_url }}" alt="" /></span>
 
